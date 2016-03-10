@@ -3,10 +3,9 @@ body {margin:0px;box-sizing:border-box;}
 h1,h2,h3,h4 {margin:0.5em;}
 p {margin:0;padding:0.2em;}
 a {text-decoration:none;}
+button {margin:0 1.0em;}
 
 .uuid {font-size:small;}
 .spacer {margin:0.5em;}
 .loremipsum {margin:1em;}
 
-#bigger {margin:1em;}
-#smaller {margin:1em;}
